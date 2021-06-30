@@ -1,0 +1,46 @@
+Body
+{
+	background-color:#878787 ;
+	Color: ;
+	font-family: Freestyle Script;
+	Background: url(BackgrounMP.png) bottom center no-repeat;
+	background-size: 100% 100%;
+}
+
+h1
+{
+	background-color:#b87d00;
+	text-align: center;
+	font-size: 100px;
+}
+
+h2
+{ 
+	border-radius: 25px;
+	font-size: 100px;
+	float:right;
+	margin-right: 100px;
+	background-color: #878787;
+	width: 210px;
+}
+li
+{
+		font-size: 36px;
+}
+Footer
+{
+		Font-size: 36px;
+		text-align: left;
+		margin-top:600px;
+		background-color:#878787 ;
+		width: 800px;
+		border-radius: 15px;
+		float: bottom;
+}
+ul
+{
+	background-color:#878787 ;
+	width: 210px;
+	border-radius: 25px;
+	float:left;
+}
