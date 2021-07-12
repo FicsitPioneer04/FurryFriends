@@ -1,0 +1,60 @@
+Body
+{
+	background-color:#878787 ;
+	font-family: Freestyle Script;
+	font-weight: normal;
+	Background: url(BFicsit.png) bottom center no-repeat;
+	background-size: 100% 100%;
+}
+
+h1
+{
+	background-color:#b87d00;
+	text-align: center;
+	font-size: 100px;
+}
+h2
+{
+	float:right;
+	margin-top: 10px;
+	margin-bottom: auto;
+	margin-left: 100px;
+	margin-right:100px;
+	background-color:#878787;
+	font-weight: normal;
+	font-size: 36px;
+	border-radius: 25px;
+}
+p
+{
+	font-size: 36px;
+}
+Footer
+{
+		Font-size: 36px;
+		text-align: bottom;
+		margin-top:200px;
+		background-color:#878787;
+		width: 750px ;
+		border-radius: 25px ;
+}
+li
+{
+		font-size: 36px;
+}	
+h3
+{
+	background-color: #878787;
+	width: 750px;
+	font-weight: normal;
+	border-radius: 25px;
+	height: auto;
+}
+h4
+{
+	background-color: #878787;
+	width: 560px;
+	font-weight: normal;
+	border-radius: 25px;
+	float: right;
+}

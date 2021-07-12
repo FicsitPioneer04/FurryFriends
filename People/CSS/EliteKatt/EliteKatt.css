@@ -1,0 +1,28 @@
+
+Body
+{
+	background-color:#878787 ;
+	font-family: Freestyle Script;
+	font-weight: normal;
+}
+
+h1
+{
+	background-color:#b87d00;
+	text-align: center;
+	font-size: 100px;
+}
+p
+{
+	font-size: 36px;
+}
+Footer
+{
+		Font-size: 36px;
+		text-align: bottom;
+		margin-top:200px;
+}
+li
+{
+		font-size: 36px;
+}
