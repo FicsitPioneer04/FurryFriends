@@ -1,0 +1,27 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+    box-sizing: border-box;
+}
+
+.lorcan__top-row {
+    display: flex;
+}
+
+.lorcan__top-row__avatar-img {
+    border-radius: 50%;
+    height: 500px;
+    box-shadow: 0 0 8px 8px white inset;
+}
+
+.lorcan__top-row__details {
+    display: flex;
+    flex-direction: column;
+}
+
+.lorcan__top-row__details__name{
+
+}
+
+.lorcan__top-row__details__role{
+    
+}
